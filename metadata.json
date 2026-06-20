@@ -1,0 +1,6 @@
+{
+  "name": "Iron Pulse Fitness",
+  "description": "Premium High-Converting Gym & Fitness Studio Sales Demo Website",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
